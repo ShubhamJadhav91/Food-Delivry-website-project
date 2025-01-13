@@ -1,0 +1,10 @@
+body{
+    background-color: red;
+}
+#home{
+
+}
+#service-container{
+    flex-direction: column;
+
+}
